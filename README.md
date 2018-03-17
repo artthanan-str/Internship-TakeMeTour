@@ -15,7 +15,6 @@ Code must be writted in Javascript language. The code will be tested with Node8,
 ```
 Answer:
 ```
--- 
 var arr = ['john', 'jane', 'sarah', 'alex'];
 var direc = 'left';
 var N = 2;
@@ -137,6 +136,10 @@ This part of quest will be a challenging one. You are going to make a simple web
 - Any tools & framework is allowed.
 - If you are using tools & framework which is same as our tech stack (React, Redux, styled-components, recompose etc.) will be a plus.
 - Any extra feature will be a plus.
+
+```
+the source code is in the NorrisChuckWeb/src/.
+```
 
 ## Questions
 Q1: What is GraphQL and how it is different from REST API?
